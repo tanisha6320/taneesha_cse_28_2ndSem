@@ -1,0 +1,23 @@
+/* Page */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+    text-align: center;
+    margin-top: 50px;
+}
+
+/* Heading */
+h2 {
+    color: #333;
+}
+
+/* Output text */
+body {
+    font-size: 18px;
+    color: #222;
+}
+
+/* Line spacing */
+br {
+    margin-bottom: 8px;
+}
